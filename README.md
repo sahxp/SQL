@@ -1,4 +1,4 @@
-# SQL Cheatsheet
+# SQL
 
 # Table of Contents 
 1. [ Finding Data Queries. ](#find)
